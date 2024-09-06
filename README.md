@@ -32,7 +32,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📚 Blog Posts
 
-- [Blog Post 1]([https://yourblog.com/post-1](https://www.notion.so/rn2rg2/24-SW-3-d91cd5ac0d4b46699b9d933c98ca13dc))
+- [Blog Post 1]([(https://www.notion.so/rn2rg2/24-SW-3-d91cd5ac0d4b46699b9d933c98ca13dc)])
 
 ## 💬 Let's Connect
 
