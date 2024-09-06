@@ -1,7 +1,5 @@
 # 🌟 [rn2rg2]
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)
 
 Welcome to my developer portfolio! Here you'll find information about my projects, skills, and professional background.
