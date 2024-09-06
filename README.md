@@ -32,11 +32,8 @@ Here are some of the technologies and tools I work with:
 
 ## 📚 Blog Posts
 
--<a href="https://yourblog.com/post-1" target="_blank">
+-<a href="https://www.notion.so/rn2rg2/24-SW-3-d91cd5ac0d4b46699b9d933c98ca13dc" target="_blank">
   <img src="C:\Users\user\Desktop\notion.jpg" alt="Notion" style="width: auto; height: auto;">
-</a>
-<a href="https://www.notion.so/rn2rg2/24-SW-3-d91cd5ac0d4b46699b9d933c98ca13dc" target="_blank">
-  <button></button>
 </a>
 
 ## 💬 Let's Connect
