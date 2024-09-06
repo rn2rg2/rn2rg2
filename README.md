@@ -32,8 +32,8 @@ Here are some of the technologies and tools I work with:
 
 ## 📚 Blog Posts
 
--<a href="https://www.notion.so/rn2rg2/24-SW-3-d91cd5ac0d4b46699b9d933c98ca13dc" target="_blank">
-  <img src="C:\Users\user\Desktop\notion.jpg" alt="Notion" style="width: auto; height: auto;">
+<a href="https://www.notion.so/rn2rg2/24-SW-3-d91cd5ac0d4b46699b9d933c98ca13dc" target="_blank">
+  <img src="https://zelt.app/wp-content/uploads/2023/03/getzelt.com-integrate-notion-with-zelt-notion-logo.jpeg" alt="Notion" style="width: 75px; height: auto;">
 </a>
 
 ## 💬 Let's Connect
